@@ -25,8 +25,9 @@ options are available to instruct pip to search a particular location instead fo
 
 Running tests
 -------------
+::
 
-nosetests --config=nose.cfg
+  nosetests --config=nose.cfg
 
 Building for distribution
 -------------------------
